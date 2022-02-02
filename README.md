@@ -13,6 +13,11 @@ for Nashville (BNA), a user should be able to select flights to/from Nashville b
 
 3. Provide two RESTful endpoints supporting the functionality listed in steps 1 and 2.
 
+## Bonus Points (Not required)
+1. Unit tests are created for your code and test the main logic you've put together. 
+
+
+
 ## Datasource
 
 A zipped CSV file of flights is available in /data/flights.csv. Each row in the CSV file represents a flight.
@@ -22,7 +27,7 @@ A zipped CSV file of flights is available in /data/flights.csv. Each row in the 
 **Preferred tech stack:**
 * Python
 * Angular
-* Docker
+* Docker (If you'd like to host it, try hosting it on Firebase since there's a free tier with a small db setup)
 
 However, you may use other tech if you are more comfortable with something else. You can use any additional technologies/frameworks/DBs/libraries you would like to.
 
