@@ -14,8 +14,7 @@ for Nashville (BNA), a user should be able to select flights to/from Nashville b
 3. Provide two RESTful endpoints supporting the functionality listed in steps 1 and 2.
 
 ## Bonus Points (Not required)
-1. Unit tests are created for your code and test the main logic you've put together. 
-
+1. Unit tests are created for your code and test the main logic you've put together, e.g. auto-suggest returns BNA when Nashville is the search term.
 
 
 ## Datasource
@@ -26,8 +25,8 @@ A zipped CSV file of flights is available in /data/flights.csv. Each row in the 
 
 **Preferred tech stack:**
 * Python
-* Angular
-* Docker (If you'd like to host it, try hosting it on Firebase since there's a free tier with a small db setup)
+* Angular or other frontend framework (ReactJS, vue.js, etc.)
+* Docker (If you'd like to host it, try hosting it on Firebase, Netlify since there's a free tier with a small db setup)
 
 However, you may use other tech if you are more comfortable with something else. You can use any additional technologies/frameworks/DBs/libraries you would like to.
 
@@ -36,4 +35,4 @@ However, you may use other tech if you are more comfortable with something else.
 * Please update the README
 * Return your solution within 3 business days, unless other directions provided.
 * Feel free to ask questions at any time.
-* Have fun with it
+* Have fun with it! Your application can be as simple or complex as possible.
