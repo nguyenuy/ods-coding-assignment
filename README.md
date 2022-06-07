@@ -24,7 +24,7 @@ A zipped CSV file of flights is available in /data/flights.csv. Each row in the 
 ## Implementation
 
 **Preferred tech stack:**
-* Python
+* Backend: Python, node.js, SpringBoot, etc.
 * Angular or other frontend framework (ReactJS, vue.js, etc.)
 * Docker (If you'd like to host it, try hosting it on Firebase, Netlify since there's a free tier with a small db setup)
 
