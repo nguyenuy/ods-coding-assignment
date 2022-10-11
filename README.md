@@ -32,7 +32,7 @@ However, you may use other tech if you are more comfortable with something else.
 
 **To submit your solution:** 
 * Clone this repo and push to a personal github repo and submit the link
-* Please update the README
+* Please update the README with how to run your app and your tech stack used and anything else that the reviewer may need to get started with your code
 * Return your solution within 3 business days, unless other directions provided.
 * Feel free to ask questions at any time.
 * Have fun with it! Your application can be as simple or complex as possible.
